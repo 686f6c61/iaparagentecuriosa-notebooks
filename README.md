@@ -15,7 +15,7 @@ navegador, o **«descargar»** para correrlo en tu ordenador. No necesitas insta
 nada: cada cuaderno declara sus dependencias en la primera celda. Las carpetas
 **Facsímil NN** se corresponden con los facsículos del libro.
 
-## Índice (26 cuadernos)
+## Índice (27 cuadernos)
 
 ### Facsímil 01 · Los cimientos
 
@@ -35,6 +35,7 @@ nada: cada cuaderno declara sus dependencias en la primera celda. Las carpetas
 - **Atención a mano: Q, K, V y la máscara causal** ([abrir en Colab](https://colab.research.google.com/github/686f6c61/iaparagentecuriosa-notebooks/blob/main/Facs%C3%ADmil%2003/01-atencion-a-mano.ipynb) · [descargar](https://raw.githubusercontent.com/686f6c61/iaparagentecuriosa-notebooks/main/Facs%C3%ADmil%2003/01-atencion-a-mano.ipynb)) — 20 celdas
 - **Cómo elige palabras un LLM: temperatura, top-k y top-p** ([abrir en Colab](https://colab.research.google.com/github/686f6c61/iaparagentecuriosa-notebooks/blob/main/Facs%C3%ADmil%2003/02-sampling-temperatura-topk-topp.ipynb) · [descargar](https://raw.githubusercontent.com/686f6c61/iaparagentecuriosa-notebooks/main/Facs%C3%ADmil%2003/02-sampling-temperatura-topk-topp.ipynb)) — 17 celdas
 - **Cuantización: cómo cabe un modelo gigante en tu portátil** ([abrir en Colab](https://colab.research.google.com/github/686f6c61/iaparagentecuriosa-notebooks/blob/main/Facs%C3%ADmil%2003/03-cuantizacion-que-se-pierde.ipynb) · [descargar](https://raw.githubusercontent.com/686f6c61/iaparagentecuriosa-notebooks/main/Facs%C3%ADmil%2003/03-cuantizacion-que-se-pierde.ipynb)) — 19 celdas
+- **Un mini-GPT desde cero: constrúyelo y míralo pensar** ([abrir en Colab](https://colab.research.google.com/github/686f6c61/iaparagentecuriosa-notebooks/blob/main/Facs%C3%ADmil%2003/04-mini-gpt-desde-cero.ipynb) · [descargar](https://raw.githubusercontent.com/686f6c61/iaparagentecuriosa-notebooks/main/Facs%C3%ADmil%2003/04-mini-gpt-desde-cero.ipynb)) — 32 celdas
 
 ### Facsímil 04 · La caja de herramientas
 
